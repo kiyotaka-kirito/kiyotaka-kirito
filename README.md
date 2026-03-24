@@ -6,16 +6,7 @@
 ## 🧑🏻‍💻 About Me
 - 📱 Focusing on building scalable apps with **SwiftUI** and **UIKit**.
 - 🏗️ Deep diving into **MVVM** architecture and **Clean Code** principles.
-  
----
-
-## 🎓 Education & Certifications
-- 📜 **Diploma in Information Technology** - Yangon University of Distance & KMD
-  - Built a solid foundation in Software Engineering principles, Computer Science fundamentals, and Data Structures.
-
-- 🏆 **iOS Development Certifications:**
-  - **HackingWithSwift (Paul Hudson)**: Completed intensive tracks focusing on Swift language deep-dives, Protocol-Oriented Programming, and advanced SwiftUI/UIKit frameworks.
-  - **CodeWithChris**: Mastered practical iOS app development, focusing on professional UI layouts, Firebase integration, and App Store best practices.
+- 🎓 **Diploma in Information Technology** & 📜 Certified iOS Developer (**HackingWithSwift & CodeWithChris**).
 
 ---
 
@@ -30,3 +21,15 @@
 
 ---
 
+## 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiyotaka-kirito&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyotaka-kirito&layout=compact&theme=github_dark)
+
+---
+
+## 📫 How to reach me
+- 👤 Portfolio: []
+- 💼 LinkedIn: [www.linkedin.com/in/kiyotaka-kirito]
+- 📧 Email: [mghtetpai.1999@gmail.com]
+
+---
