@@ -12,8 +12,7 @@
 
 ### 📁 Portfolio & Case Studies
 I maintain a dedicated repository for my detailed project breakdowns, architecture decisions, and code samples.
-
-👉🏻 **[Github Portfolio](https://github.com/kiyotaka-kirito/iOS-developer-portfolio.git)**
+**[Github Portfolio](https://github.com/kiyotaka-kirito/iOS-developer-portfolio.git)**
 
 ---
 
