@@ -28,6 +28,7 @@ I maintain a dedicated repository for my detailed project breakdowns, architectu
 ---
 
 ### 📫 How to reach me
+- 🌐 Portfolio: https://kiyotaka-kirito.github.io
 - 💼 LinkedIn: www.linkedin.com/in/kiyotaka-kirito
 - 📧 Email: mghtetpai.1999@gmail.com
 
